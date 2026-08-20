@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-9vddqj.planetjp.online/sitemap.xml
